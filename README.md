@@ -1,4 +1,4 @@
-# Student Data Analysis with SciPy
+# Data Analysis with SciPy
 
 This project demonstrates the use of **SciPy** for scientific and mathematical computing.  
 It covers key beginner-friendly concepts from the W3Schools SciPy tutorial, including:
@@ -31,4 +31,5 @@ It covers key beginner-friendly concepts from the W3Schools SciPy tutorial, incl
 3. Run the Python file in your editor or terminal  
 
 4. Install required libraries:  
+
 
