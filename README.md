@@ -27,9 +27,9 @@ It covers key beginner-friendly concepts from the W3Schools SciPy tutorial, incl
 
 ## How to Run
 1. Clone the repository
-2. pip install scipy numpy
+2. Install required libraries: pip install scipy numpy
 3. Run the Python file in your editor or terminal  
+ 
 
-4. Install required libraries:  
 
 
